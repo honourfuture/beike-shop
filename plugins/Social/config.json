@@ -1,0 +1,12 @@
+{
+    "code": "social",
+    "name": "Social",
+    "description": "第三方登录(包括Facebook、Twitter、Google)",
+    "type": "social",
+    "version": "v1.0.0",
+    "icon": "/image/logo.png",
+    "author": {
+        "name": "成都光大网络科技有限公司",
+        "email": "yangjin@guangda.work"
+    }
+}
